@@ -87,5 +87,5 @@ Unit & integration testing
 
 👨‍💻 Author
 
-Shantanu Lohare
-Frontend Developer | React | TypeScript
+Shivam Pandit
+Frontend Developer | React | Data Analytics 
